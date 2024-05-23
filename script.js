@@ -1,4 +1,4 @@
-const input = document.querySelector('input');
+  const input = document.querySelector('input');
 const games = document.querySelectorAll('#games img');
 
 input.addEventListener('input', () => {
